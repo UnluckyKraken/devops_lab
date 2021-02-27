@@ -1,13 +1,13 @@
-#Snapshot tool
+# Snapshot tool
 It is a simple tool which writes snapshots with some of your system's statistics to a file.
 
-##Installing
+## Installing
 Simply clone this repository and run "pip install ." in the directory.
 
-##Uninstalling
+## Uninstalling
 Just run "pip uninstall snapshot"
 
-##Usage
+## Usage
 Run "snapshot" in console. Script will be writing data to a snapshot.txt every 5 minutes.
 
 Optional arguments:
